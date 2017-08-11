@@ -1,0 +1,6 @@
+10:50:45 **** Build of configuration Default for project TEST ****
+make all 
+make: *** No rule to make target 'all'。 停止。
+
+10:50:45 Build Finished (took 227ms)
+

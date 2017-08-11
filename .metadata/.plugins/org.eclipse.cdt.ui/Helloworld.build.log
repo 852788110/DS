@@ -1,0 +1,15 @@
+15:09:09 **** Build of configuration Debug for project Helloworld ****
+make all 
+Building file: ../src/Helloworld.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Helloworld.d" -MT"src/Helloworld.o" -o "src/Helloworld.o" "../src/Helloworld.c"
+Finished building: ../src/Helloworld.c
+ 
+Building target: Helloworld
+Invoking: GCC C Linker
+gcc  -o "Helloworld"  ./src/Helloworld.o   
+Finished building target: Helloworld
+ 
+
+15:09:10 Build Finished (took 1s.187ms)
+
