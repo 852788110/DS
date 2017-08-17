@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "rand0.h"
-#include "ten_13.h"
+#include "ten_14.h"
 //int largest-of-array(const int array[],int num)
 //int rand0(int max);
 #define N 20
@@ -22,5 +22,5 @@ int main(void)
 	printf("The largest integer is %d.\n",largest_of_array(array,N));
 	printf("The difference of the largest and smallest elements of an array is %d.\n",dif_lar_sma(array,N));
 	*/
-	ten13();
+	test_vla();
 }
